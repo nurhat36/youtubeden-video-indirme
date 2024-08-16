@@ -1,0 +1,2 @@
+def speek():
+    print("meow")
